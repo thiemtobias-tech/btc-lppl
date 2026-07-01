@@ -1,7 +1,5 @@
-streamlit>=1.36
-numpy>=1.26
-scipy>=1.11
-pandas>=2.0
-matplotlib>=3.7
-yfinance>=0.2.40
-ccxt>=4.3
+numpy
+matplotlib
+pandas
+streamlit
+ccxt
